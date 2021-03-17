@@ -1,12 +1,8 @@
 ### Hi there 👋
 
-<!--
-**tecnomage/tecnomage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 My name is Vini Braga, I'm from Brazil. I've been working as Developer since 2010 . Actually I work as a Full Stack Programmer at Brazil.
 
 Would you like to find me?
-
 Youtube Badge Twitter Badge Linkedin Badge
 
 

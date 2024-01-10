@@ -1,8 +1,10 @@
+
+<center>
 <h1 align="justify">
   Hi there, I`m vinicius 👋 
 </h1>
 <h3 align="justify"> i code stuff</h3>
-
+</center>
 
 Olá, sou um desenvolvedor Full Stack apaixonado por tecnologia, com 8 anos de experiência sólida na indústria de TI. Durante minha carreira, tive a oportunidade de trabalhar em uma variedade de projetos desafiadores e inovadores, que vão desde aplicações web até soluções de software complexas.
 

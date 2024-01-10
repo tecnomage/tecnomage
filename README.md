@@ -9,14 +9,16 @@
 </h3>
 </center>
 
-Olá, sou um desenvolvedor Full Stack apaixonado por tecnologia, com 8 anos de experiência sólida na indústria de TI. Durante minha carreira, tive a oportunidade de trabalhar em uma variedade de projetos desafiadores e inovadores, que vão desde aplicações web até soluções de software complexas.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-Tive a oportunidade de liderar projetos do início ao fim e conhecer a fundo todas as etapas do ciclo de vida do desenvolvimento de software. Estou confortável trabalhando tanto no front-end quanto no back-end, sendo capaz de criar interfaces de usuário intuitivas e responsivas, bem como arquitetar e implementar soluções de back-end robustas. Minha experiência abrange várias tecnologias, incluindo [JavaScript, React, Node.js, Python, Django, entre outras.]
+- :seedling: Exploring Technical Content Writing.
 
-Estou sempre procurando expandir minhas habilidades e enfrentar novos desafios. Portanto, estou atualmente em busca de novas oportunidades onde possa aplicar minhas habilidades existentes e continuar crescendo como profissional na área de TI. Se sua equipe precisa de um desenvolvedor Full Stack experiente, dedicado e apaixonado por resolver problemas e criar soluções eficientes, adoraria ter a oportunidade de discutir como posso contribuir para seus projetos. Estou ansioso para trazer minha experiência, compromisso e paixão para sua empresa.
+- :zap: In my free time, 
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]()
+
 
 Social Media:
-
   <div id="badges">
   <a href="https://www.linkedin.com/in/viniciusbraga11/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -32,4 +34,22 @@ Social Media:
   </a> -->
 </div>
 
-Tecnologias:
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tecnomage)](https://git.io/streak-stats)

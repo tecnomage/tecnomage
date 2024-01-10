@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1 align="justify">
+  Hi there, I`m vinicius 👋 
+</h1>
+<h3 align="justify"> i code stuff</h3>
+
 
 Olá, sou um desenvolvedor Full Stack apaixonado por tecnologia, com 8 anos de experiência sólida na indústria de TI. Durante minha carreira, tive a oportunidade de trabalhar em uma variedade de projetos desafiadores e inovadores, que vão desde aplicações web até soluções de software complexas.
 
@@ -6,7 +10,7 @@ Tive a oportunidade de liderar projetos do início ao fim e conhecer a fundo tod
 
 Estou sempre procurando expandir minhas habilidades e enfrentar novos desafios. Portanto, estou atualmente em busca de novas oportunidades onde possa aplicar minhas habilidades existentes e continuar crescendo como profissional na área de TI. Se sua equipe precisa de um desenvolvedor Full Stack experiente, dedicado e apaixonado por resolver problemas e criar soluções eficientes, adoraria ter a oportunidade de discutir como posso contribuir para seus projetos. Estou ansioso para trazer minha experiência, compromisso e paixão para sua empresa.
 
-                                                                                        -----------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------                                                                                       
                                                                                         
 Hello, I am a passionate Full Stack developer with 8 years of solid experience in the IT industry. Throughout my career, I have had the opportunity to work on a variety of challenging and innovative projects, ranging from web applications to complex software solutions.
 

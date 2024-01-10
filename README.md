@@ -68,3 +68,6 @@ Contact-me:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tecnomage)](https://git.io/streak-stats)
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=tecnomage" alt="GitHub Streak" /></a>
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=DenverCoder1)](https://git.io/streak-stats)

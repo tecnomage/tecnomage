@@ -1,9 +1,9 @@
 
 <center>
-<h1 align="justify">
+<h1 align="center">
   Hi there, I`m vinicius 👋 
 </h1>
-<h3 align="justify"> i code stuff
+<h3 align="center"> i code stuff
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>

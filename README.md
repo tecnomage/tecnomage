@@ -29,9 +29,11 @@ Contact-me:
   </a>
   <a href="https://dev.to/tecnomage"
   >
-  ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" 
+  alt="Dev.to Badge"
+  />
   </a>
-  <>
+  </div>
   <!-- <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a> -->

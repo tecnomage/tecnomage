@@ -29,7 +29,7 @@ Contact-me:
   </a>
   <a href="https://dev.to/tecnomage"
   >
-  "![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)"
+  ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
   </a>
   <>
   <!-- <a href="your-youtube-URL">
@@ -103,7 +103,4 @@ Contact-me:
 ### :fire: My Stats :
 ![Tecnomage's GitHub stats](https://github-readme-stats.vercel.app/api?username=tecnomage&show_icons=true&theme=radical)
 
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tecnomage)](https://git.io/streak-stats)
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=tecnomage" alt="GitHub Streak" /></a> -->
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=DenverCoder1)](https://git.io/streak-stats) -->
 

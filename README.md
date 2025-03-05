@@ -9,7 +9,7 @@
 </h3>
 </center>
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building applications.
 
 - :seedling: Exploring Technical Content Writing.
 
